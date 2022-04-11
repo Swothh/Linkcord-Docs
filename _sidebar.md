@@ -1,0 +1,26 @@
+- [Join Our Discord Server](https://discord.com/invite/uUSphrA7ZP)
+
+- [Get Started](/)
+    - [Join Our Discord Server](/?id=join-our-discord-server)
+    - [Widgets](/?id=widgets)
+    - [API](/?id=api)
+    - [Gateway](/?id=gateway)
+
+- [Widgets](widgets.md)
+    - [Spotify Large](widgets.md?id=spotify-large)
+    - [Spotify Small](widgets.md?id=spotify-small)
+    - [Visual Studio Code](widgets.md?id=visual-studio-code)
+    - [Custom Status](widgets.md?id=custom-status)
+
+- [API](api.md)
+    - [GraphQL](api.md?id=graphql)
+        - [QUERY - user(id: String!)](api.md?id=query-userid-string)
+    - [REST](api.md?id=rest)
+        - [GET - /api/v3/user/:id](api.md?id=get-apiv3userid)
+        - [GET - /api/v3/widget/:id](api.md?id=get-apiv3widgetid)
+
+- [Gateway](gateway.md)
+    - [Payload](gateway.md?id=payload)
+    - [Op Codes](gateway.md?id=op-codes)
+    - [Heartbeat](gateway.md?id=heartbeat)
+    - [Example](gateway.md?id=example)
